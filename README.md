@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @faizannaseerr
-- 👀 I’m interested in sports (I hate coding 😡🥹)
+- 👀 I’m interested in sports (I hate coding 🥺)
 - 🌱 I’m currently learning computer science at UofT 🥳
 - 💞️ I’m looking to collaborate on anything related to software engineering
 - 📫 How to reach me - don't, you'll ruin your life 🥰
