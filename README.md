@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @faizannaseerr
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning computer science at UofT 🥳
-- 💞️ I’m looking to collaborate on anything related to software engineering, or AI & data science.
+- 💞️ I’m looking to collaborate on anything related to software engineering, AI or data science.
 - 📫 How to reach me - f.naseer@mail.utoronto.ca
 - 🚀 More about me - https://faizannaseer.vercel.app
 <!---
