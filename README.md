@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm Faizan Naseer
 
-Welcome to my GitHub profile! I'm a passionate computer science student at the **University of Toronto** (UofT) with a keen interest in **software engineering**, **artificial intelligence**, and **data science**. 🚀
+Welcome to my GitHub profile! I'm a passionate computer science student at the **University of Toronto** (UofT) with a keen interest in **software engineering**, **artificial intelligence**, and **design**. 🚀
 
 ## About Me
 - 🌟 I’m constantly exploring new technologies and honing my skills to create impactful solutions.
-- 🤝 Open to collaborating on exciting projects related to **AI**, **data science**, or **software development**.
-- 📖 Currently diving deeper into **machine learning**, **full-stack development**, and **system design**.
+- 🤝 Open to collaborating on exciting projects related to **AI**, **design**, or **software development**.
+- 📖 Currently diving deeper into **machine learning**, **building scalable products**, and **Web3 solutions**.
 
 ## Get in Touch
 - 📫 Email: [f.naseer@mail.utoronto.ca](mailto:f.naseer@mail.utoronto.ca)
@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm a passionate computer science student at the *
 
 ## Fun Facts
 - 🧠 I love blending creativity with logic to solve real-world problems.
-- 🌱 Always eager to learn, grow, and innovate.
-- 💡 Motto: "Strive for progress, not perfection."
+- 🌱 Always eager to learn, grow, and innovate effectively, whilst holding myself to an aesthetic & performance standard.
+- 💡 Motto: "Get everything off local host!!"
 
 Feel free to explore my repositories and connect. Let’s build something incredible together! 😊
 
