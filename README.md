@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Faizan Naseer
+# Hi there! 👋 I'm Faizan
 
 Welcome to my GitHub profile! I'm a passionate computer science student at the **University of Toronto** (UofT) with a keen interest in **software engineering**, **artificial intelligence**, and **design**. 🚀
 
