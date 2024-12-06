@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate computer science student at the *
 ## Fun Facts
 - 🧠 I love blending creativity with logic to solve real-world problems.
 - 🌱 Always eager to learn, grow, and innovate effectively, whilst holding myself to an aesthetic & performance standard.
-- 💡 Motto: "Get everything off local host!!"
+- 💡 "Get everything off local host!!"
 
 Feel free to explore my repositories and connect. Let’s build something incredible together! 😊
 
